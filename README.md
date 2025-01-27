@@ -7,7 +7,7 @@ This project contains the following file(s) and folder:
 - **styles.css** - The file where index.html is linked to. It contains different css declarations for typography and layout
   
 ## Preview
-Here's the [preview](https://yvesmanalo.github.io/personal-portfolio/) of how the changelog website looks like.
+Here's the [preview](https://yvesmanalo.github.io/changelog-component/) of how the changelog website looks like.
 
 ## Project Details:
 This project was built based on the [project details](https://roadmap.sh/projects/changelog-component) provided by [roadmap.sh](https://roadmap.sh/).
